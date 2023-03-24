@@ -1,2018 +1,0 @@
-Script started on 2023-03-20 23:40:17+05:30 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="120" LINES="28"]
-[?2004h]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone https://github.com/rajat-kurhade-tiger/Assignment_1.1.git
-[?2004lCloning into 'Assignment_1.1'...
-remote: Enumerating objects: 9, done.[K
-remote: Counting objects:  11% (1/9)[Kremote: Counting objects:  22% (2/9)[Kremote: Counting objects:  33% (3/9)[Kremote: Counting objects:  44% (4/9)[Kremote: Counting objects:  55% (5/9)[Kremote: Counting objects:  66% (6/9)[Kremote: Counting objects:  77% (7/9)[Kremote: Counting objects:  88% (8/9)[Kremote: Counting objects: 100% (9/9)[Kremote: Counting objects: 100% (9/9), done.[K
-remote: Compressing objects:  20% (1/5)[Kremote: Compressing objects:  40% (2/5)[Kremote: Compressing objects:  60% (3/5)[Kremote: Compressing objects:  80% (4/5)[Kremote: Compressing objects: 100% (5/5)[Kremote: Compressing objects: 100% (5/5), done.[K
-remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 0[K
-Receiving objects:  11% (1/9)Receiving objects:  22% (2/9)Receiving objects:  33% (3/9)Receiving objects:  44% (4/9)Receiving objects:  55% (5/9)Receiving objects:  66% (6/9)Receiving objects:  77% (7/9)Receiving objects:  88% (8/9)Receiving objects: 100% (9/9)Receiving objects: 100% (9/9), done.
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# ig[K[Kgit status
-[?2004lfatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# cd Assignment_1.1/
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# echo ""M"y" "p"r"o"j"e"c"y"[1P"t"[C > README
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# GIT [K[K[K[Kgit status
-[?2004lOn branch main
-Your branch is up to date with 'origin/main'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mREADME[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git add README
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git commit -m ""u"p"a"t"[1P"[1P"d"a"t"e"d" "r"e"a"d"m"e" "f"i"l"e"[C
-[?2004l[main 29c0c5c] updated readme file
- 1 file changed, 1 insertion(+)
- create mode 100644 README
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git push
-[?2004lUsername for 'https://github.com': rajat-kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/rajat-kurhade-tiger/Assignment_1.1.git/'
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status -s
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git pull
-[?2004lAlready up to date.
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git pull
-[?2004lremote: Enumerating objects: 4, done.[K
-remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
-remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
-Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 729 bytes | 28.00 KiB/s, done.
-From https://github.com/rajat-kurhade-tiger/Assignment_1.1
-   a225c07..7dda9e5  main       -> origin/main
-hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;6r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[4;54H(B[0;7m[ Reading... ](B[m[4;53H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 6.2               /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/.git/MERGE_MSG                        [1;119H(B[m[5d(B[0;7m^G(B[m Help[5;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[5;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[6d(B[0;7m^X(B[m Exit[6;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dMerge branch 'main' of [94mhttps://github.com/rajat-kurhade-tiger/Assignment_1.1[3d[36m# Please enter a commit message to explain why this merge is necessary,[A[39m(B[m[?12l[?25h[6;1H[?1049l[23;0;0t[?1l>[?1049h[22;0;0t[1;29r[?12l[?25h[39;49m]104(B[m[4l[?7h[H[2J[?2004h[?1h=[?1h=(B[0;7m  GNU nano 6.2                /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/.git/MERGE_MSG                         [1;121H(B[m[2dMerge branch 'main' of [94mhttps://github.com/rajat-kurhade-tiger/Assignment_1.1[3d[36m# Please enter a commit message to explain why this merge is necessary,[4d# especially if it merges an updated upstream into a topic branch.[5d#[6d# Lines starting with '#' will be ignored, and an empty message aborts[7d# the commit.[28d[39m(B[0;7m^G(B[m Help[28;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[28;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[29d(B[0;7m^X(B[m Exit[29;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[?25l[?12l[?25h[2d[?25l[?12l[?25h[?25l[28;16H[15X[28;31H(B[0;7mM-D(B[m DOS Format       [28;61H(B[0;7mM-A(B[m Append[16X[28;93H(B[0;7mB(B[m Backup File[K[29;2H(B[0;7mC(B[m Cancel[16G[15X[29;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[29;91H(B[0;7m^T(B[m Browse[K[27d(B[0;7mFile Name to Write: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/.git/MERGE_MSG                                   [27;88H(B[m[?12l[?25h[?25l[27;54H[1K (B[0;7m[ Writing... ](B[m[K[1;121H[27;53H(B[0;7m[ Wrote 6 lines ](B[m[28;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[28;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[29;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[27d[J[29d[?12l[?25h[29;1H[?1049l[23;0;0t[?1l>[?2004l[KMerge made by the 'ort' strategy.
- LICENCE.txt | 1 [32m+[m
- 1 file changed, 1 insertion(+)
- create mode 100644 LICENCE.txt
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 2 commits.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# cat .gitignore
-[?2004l.csv
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# 
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# gi[K[Kexit
-[?2004lexit
-
-Script done on 2023-03-20 23:59:26+05:30 [COMMAND_EXIT_CODE="0"]
-Script started on 2023-03-21 00:00:38+05:30 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="122" LINES="29"]
-[?2004h]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_pri[Koject/Assignment_1.1/
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 2 commits.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git diff
-[?2004l[?1h=[K[?1l>[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# echo ""#" "t"e"s"t" "l"i"n"e"[C >> contr[K[K[K[K[KCONTRIBUTING.md
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 2 commits.
-  (use "git push" to publish your local commits)
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mCONTRIBUTING.md[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git[K[K[Kecho[K[K[K[Kgit add CONTRIBUTING.md
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 2 commits.
-  (use "git push" to publish your local commits)
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mnew file:   CONTRIBUTING.md[m
-
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git diff
-[?2004l[?1h=[K[?1l>[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git commit -,[Km ""C"r"e"a"t"e"d" "[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"A"d"d"e"d" "C"O"N"T"R"I"B"U"T"I"N"G" "f"i"l"e"[C
-[?2004l[main c82a721] Added CONTRIBUTING file
- 1 file changed, 1 insertion(+)
- create mode 100644 CONTRIBUTING.md
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# [K]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git rm LICENCE.txt 
-[?2004lrm 'LICENCE.txt'
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# GIT [K[K[K[Kgit status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 3 commits.
-  (use "git push" to publish your local commits)
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mdeleted:    LICENCE.txt[m
-
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git push[K[K[K[K[K[K[K[Kgit push
-[?2004lUsername for 'https://github.com': rajat* -kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/rajat-kurhade-tiger/Assignment_1.1.git/'
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# cd ..
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# git clone ^V[K[K[K[K[K[K[K[K[K[K[Kgit clone hr[K[Khttps://github.com/schacon/simplegit-progit
-[?2004lCloning into 'simplegit-progit'...
-remote: Enumerating objects: 13, done.[K
-remote: Total 13 (delta 0), reused 0 (delta 0), pack-reused 13[K
-Receiving objects:   7% (1/13)Receiving objects:  15% (2/13)Receiving objects:  23% (3/13)Receiving objects:  30% (4/13)Receiving objects:  38% (5/13)Receiving objects:  46% (6/13)Receiving objects:  53% (7/13)Receiving objects:  61% (8/13)Receiving objects:  69% (9/13)Receiving objects:  76% (10/13)Receiving objects:  84% (11/13)Receiving objects:  92% (12/13)Receiving objects: 100% (13/13)Receiving objects: 100% (13/13), done.
-Resolving deltas:   0% (0/3)Resolving deltas:  33% (1/3)Resolving deltas:  66% (2/3)Resolving deltas: 100% (3/3)Resolving deltas: 100% (3/3), done.
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# cd s
-[?2004lbash: cd: s: No such file or directory
-[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_projectroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project# cs[Kd simplegit-progit/
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/simplegit-progitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/simplegit-progit# git log
-[?2004l[?1h=[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-:[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-:[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-:[K[KDate:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-:[K[K:[K[K [KESCESC[K^J^J[K:[K[K [K^X^X[K^J^J[K:[K[K [K^X^X[K^J^J[K:[K[K [K^X^X[K^J^J[K:[K[H[2J[HDate:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 10:31:28 2008 -0700[m
-[m
-    first commit[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMAuthor: Scott Chacon <schacon@gmail.com>[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM    changed the verison number[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMDate:   Mon Mar 17 21:52:11 2008 -0700[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMAuthor: Scott Chacon <schacon@gmail.com>[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-[29;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
-[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[Script started on 2023-03-21 00:39:32+05:30 [TERM="xterm-256color" TTY="/dev/pts/12" COLUMNS="120" LINES="28"]
-[?2004h]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/simplegit-progit/
-[?2004l[?2004h]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/simplegit-progitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/simplegit-progit# git log -p
-[?2004l[?1h=[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Mon Mar 17 21:52:11 2008 -0700[m
-[m
-    changed the verison number[m
-[m
-[1mdiff --git a/Rakefile b/Rakefile[m[m
-[1mindex a874b73..8f94139 100644[m[m
-[1m--- a/Rakefile[m[m
-[1m+++ b/Rakefile[m[m
-[36m@@ -5,7 +5,7 @@[m [mrequire 'rake/gempackagetask'[m[m
- spec = Gem::Specification.new do |s|[m[m
-     s.platform  =   Gem::Platform::RUBY[m[m
-     s.name      =   "simplegit"[m[m
-[31m-    s.version   =   "0.1.0"[m[m
-[32m+[m[32m    s.version   =   "0.1.1"[m[m
-     s.author    =   "Scott Chacon"[m[m
-     s.email     =   "schacon@gmail.com"[m[m
-     s.summary   =   "A simple gem for using Git in Ruby code."[m[m
-[m
-[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
-Author: Scott Chacon <schacon@gmail.com>[m
-Date:   Sat Mar 15 16:40:33 2008 -0700[m
-[m
-    removed unnecessary test code[m
-[m
-[1mdiff --git a/lib/simplegit.rb b/lib/simplegit.rb[m[m
-:[K[K [KESCESC[K^X^X[K:[K[K [K^X^X[K^X^X[Kgoto mark: [K:[K[K [K^X^X[K^J^J[K:[K[K [K^X^X[K^X^X[Kgoto mark: [K[K[7mInvalid mark letter   (press RETURN)[27m[28;1H[K[K:[K[K [K^X^X[K^X^X[Kgoto mark: [K[K[7mInvalid mark letter   (press RETURN)[27m[28;1H[K[K:[K[K [K^X^X[K^X^X[Kgoto mark: [K:[K[K [K^X^X[K^X^X[Kgoto mark: [K[K[7mInvalid mark letter   (press RETURN)[27m[28;1H[K[K:[K[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[K^J^J[K:[K[K[1mindex a0a60ae..47c6340 100644[m[m
-:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K[1m--- a/lib/simplegit.rb[m[m
-:[K[K [KESCESC[K^J^J[K:[K[K[1m+++ b/lib/simplegit.rb[m[m
-:[K[K[36m@@ -18,8 +18,3 @@[m [mclass SimpleGit[m[m
-:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K     end[m[m
-:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K   [m[m
-:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[K^J^J[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[HM    changed the verison number[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[HMDate:   Mon Mar 17 21:52:11 2008 -0700[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[HMAuthor: Scott Chacon <schacon@gmail.com>[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-[28;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K[1mindex a0a60ae..47c6340 100644[m[m
-:[KScript started on 2023-03-21 12:46:44+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="7"]
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 3 commits.
-  (use "git push" to publish your local commits)
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mdeleted:    LICENCE.txt[m
-
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1# git ci[Kommit -m ""D"e"l"e"t"e"d" "f"i"l"e"[1P"[1P"[1P"[1P"L"i"c"e"[1P"[1P"[1P"[1P"L"I"C"E"N"C"E"."t"x"t"[C
-[?2004l[main cd98c58] Deleted LICENCE.txt
- 1 file changed, 1 deletion(-)
- delete mode 100644 LICENCE.txt
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1# [7mgit clone https://github.com/schacon/ticgit[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/schacon/ticgit [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
-[?2004lCloning into 'ticgit'...
-remote: Enumerating objects: 1857, done.[K
-Receiving objects:   0% (1/1857)Receiving objects:   1% (19/1857)Receiving objects:   2% (38/1857)Receiving objects:   3% (56/1857)Receiving objects:   4% (75/1857)Receiving objects:   5% (93/1857)Receiving objects:   6% (112/1857)Receiving objects:   7% (130/1857)Receiving objects:   8% (149/1857)Receiving objects:   9% (168/1857)Receiving objects:  10% (186/1857)Receiving objects:  11% (205/1857)Receiving objects:  12% (223/1857)Receiving objects:  13% (242/1857)Receiving objects:  14% (260/1857)Receiving objects:  15% (279/1857)Receiving objects:  16% (298/1857)Receiving objects:  17% (316/1857)Receiving objects:  18% (335/1857)Receiving objects:  19% (353/1857)Receiving objects:  20% (372/1857)Receiving objects:  21% (390/1857)Receiving objects:  22% (409/1857)Receiving objects:  23% (428/1857)Receiving objects:  24% (446/1857)Receiving objects:  25% (465/1857), 92.01 KiB | 160.00 KiB/sReceiving objects:  26% (483/1857), 92.01 KiB | 160.00 KiB/sReceiving objects:  26% (491/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  27% (502/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  28% (520/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  29% (539/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  30% (558/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  31% (576/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  32% (595/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  33% (613/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  34% (632/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  35% (650/1857), 132.01 KiB | 118.00 KiB/sReceiving objects:  35% (663/1857), 164.01 KiB | 69.00 KiB/s Receiving objects:  36% (669/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  37% (688/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  38% (706/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  39% (725/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  40% (743/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  41% (762/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  42% (780/1857), 164.01 KiB | 69.00 KiB/sReceiving objects:  43% (799/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  44% (818/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  45% (836/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  46% (855/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  47% (873/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  48% (892/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  49% (910/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  50% (929/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  51% (948/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  51% (965/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  52% (966/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  53% (985/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  54% (1003/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  55% (1022/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  56% (1040/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  57% (1059/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  58% (1078/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  59% (1096/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  60% (1115/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  61% (1133/1857), 204.01 KiB | 71.00 KiB/sReceiving objects:  62% (1152/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  63% (1170/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  64% (1189/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  65% (1208/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  66% (1226/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  67% (1245/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  68% (1263/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  69% (1282/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  70% (1300/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  71% (1319/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  72% (1338/1857), 252.01 KiB | 70.00 KiB/sReceiving objects:  72% (1355/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  73% (1356/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  74% (1375/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  75% (1393/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  76% (1412/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  77% (1430/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  78% (1449/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  79% (1468/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  80% (1486/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  81% (1505/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  82% (1523/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  83% (1542/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  84% (1560/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  85% (1579/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  86% (1598/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  87% (1616/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  88% (1635/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  89% (1653/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  90% (1672/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  91% (1690/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  92% (1709/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  93% (1728/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  94% (1746/1857), 284.01 KiB | 68.00 KiB/sremote: Total 1857 (delta 0), reused 0 (delta 0), pack-reused 1857[K
-Receiving objects:  95% (1765/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  96% (1783/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  97% (1802/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  98% (1820/1857), 284.01 KiB | 68.00 KiB/sReceiving objects:  99% (1839/1857), 284.01 KiB | 68.00 KiB/sReceiving objects: 100% (1857/1857), 284.01 KiB | 68.00 KiB/sReceiving objects: 100% (1857/1857), 334.06 KiB | 74.00 KiB/s, done.
-Resolving deltas:   0% (0/837)Resolving deltas:   1% (9/837)Resolving deltas:   2% (17/837)Resolving deltas:   3% (26/837)Resolving deltas:   4% (34/837)Resolving deltas:   5% (42/837)Resolving deltas:   6% (51/837)Resolving deltas:   7% (59/837)Resolving deltas:   8% (67/837)Resolving deltas:   9% (76/837)Resolving deltas:  10% (84/837)Resolving deltas:  11% (93/837)Resolving deltas:  12% (101/837)Resolving deltas:  13% (109/837)Resolving deltas:  14% (118/837)Resolving deltas:  15% (126/837)Resolving deltas:  16% (134/837)Resolving deltas:  17% (143/837)Resolving deltas:  18% (151/837)Resolving deltas:  19% (160/837)Resolving deltas:  20% (168/837)Resolving deltas:  21% (176/837)Resolving deltas:  22% (185/837)Resolving deltas:  23% (193/837)Resolving deltas:  24% (201/837)Resolving deltas:  25% (210/837)Resolving deltas:  26% (218/837)Resolving deltas:  27% (226/837)Resolving deltas:  28% (235/837)Resolving deltas:  29% (243/837)Resolving deltas:  30% (252/837)Resolving deltas:  31% (260/837)Resolving deltas:  32% (268/837)Resolving deltas:  33% (277/837)Resolving deltas:  34% (285/837)Resolving deltas:  35% (293/837)Resolving deltas:  36% (302/837)Resolving deltas:  37% (310/837)Resolving deltas:  38% (319/837)Resolving deltas:  39% (327/837)Resolving deltas:  40% (335/837)Resolving deltas:  41% (344/837)Resolving deltas:  42% (352/837)Resolving deltas:  43% (360/837)Resolving deltas:  44% (369/837)Resolving deltas:  45% (377/837)Resolving deltas:  46% (386/837)Resolving deltas:  47% (394/837)Resolving deltas:  48% (402/837)Resolving deltas:  49% (411/837)Resolving deltas:  50% (419/837)Resolving deltas:  51% (427/837)Resolving deltas:  52% (436/837)Resolving deltas:  53% (444/837)Resolving deltas:  54% (452/837)Resolving deltas:  55% (461/837)Resolving deltas:  56% (469/837)Resolving deltas:  57% (478/837)Resolving deltas:  58% (486/837)Resolving deltas:  59% (494/837)Resolving deltas:  60% (503/837)Resolving deltas:  61% (511/837)Resolving deltas:  62% (519/837)Resolving deltas:  63% (528/837)Resolving deltas:  64% (536/837)Resolving deltas:  65% (545/837)Resolving deltas:  66% (553/837)Resolving deltas:  67% (561/837)Resolving deltas:  68% (570/837)Resolving deltas:  69% (578/837)Resolving deltas:  70% (586/837)Resolving deltas:  71% (595/837)Resolving deltas:  72% (603/837)Resolving deltas:  73% (612/837)Resolving deltas:  74% (620/837)Resolving deltas:  75% (628/837)Resolving deltas:  76% (637/837)Resolving deltas:  77% (645/837)Resolving deltas:  78% (653/837)Resolving deltas:  79% (662/837)Resolving deltas:  80% (670/837)Resolving deltas:  81% (678/837)Resolving deltas:  82% (687/837)Resolving deltas:  83% (695/837)Resolving deltas:  84% (704/837)Resolving deltas:  85% (712/837)Resolving deltas:  86% (720/837)Resolving deltas:  87% (729/837)Resolving deltas:  88% (737/837)Resolving deltas:  89% (745/837)Resolving deltas:  90% (754/837)Resolving deltas:  91% (762/837)Resolving deltas:  92% (771/837)Resolving deltas:  93% (779/837)Resolving deltas:  94% (787/837)Resolving deltas:  95% (796/837)Resolving deltas:  96% (804/837)Resolving deltas:  97% (812/837)Resolving deltas:  98% (821/837)Resolving deltas:  99% (829/837)Resolving deltas: 100% (837/837)Resolving deltas: 100% (837/837), done.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1# cd ticgit/
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git remote
-[?2004lorigin
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git remote -v
-[?2004lorigin	https://github.com/schacon/ticgit (fetch)
-origin	https://github.com/schacon/ticgit (push)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git pull[K[K[K[K[K[K[K[Kgit fetch origin
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git pull
-[?2004lAlready up to date.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git push origin main
-[?2004lerror: src refspec main does not match any
-[31merror: failed to push some refs to 'https://github.com/schacon/ticgit'
-[m[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git remote show origin
-[?2004l* remote origin
-  Fetch URL: https://github.com/schacon/ticgit
-  Push  URL: https://github.com/schacon/ticgit
-  HEAD branch: master
-  Remote branches:
-    master tracked
-    ticgit tracked
-  Local branch configured for 'git pull':
-    master merges with remote master
-  Local ref configured for 'git push':
-    master pushes to master (up to date)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag
-[?2004l[?1h=[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag -l[K l "[K[K[K[Kl ""v"1"."8"."5"*"[C
-[?2004l[?1h=[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag
-[?2004l[?1h=[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag -a v1.4 -m ""m"t" "v"e"r"s"i"o"n" "1"."4"[C
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag
-[?2004l[?1h=v1.4[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git show v1.4
-[?2004l[?1h=[33mtag v1.4[m[m
-Tagger: rajat-kurhade-tiger <rajat.kurhade@tigeranalytics.com>[m
-Date:   Tue Mar 21 13:23:57 2023 +0530[m
-[m
-mt version 1.4[m
-[m
-[33mcommit 847256809a3d518cd36b8f81859401416fe8d945[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Jeff Welling <Jeff.Welling@Gmail.com>[m
-Date:   Tue Apr 26 17:29:17 2011 -0700[m
-:[K[K[m
-:[K[H[2J[HTagger: rajat-kurhade-tiger <rajat.kurhade@tigeranalytics.com>[m
-Date:   Tue Mar 21 13:23:57 2023 +0530[m
-[m
-mt version 1.4[m
-[m
-[33mcommit 847256809a3d518cd36b8f81859401416fe8d945[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Jeff Welling <Jeff.Welling@Gmail.com>[m
-Date:   Tue Apr 26 17:29:17 2011 -0700[m
-[m
-    Added note to clarify which is the canonical TicGit-ng repo[m
-[m
-[1mdiff --git a/README.mkd b/README.mkd[m[m
-[1mindex ab92035..9ea9ff9 100644[m[m
-[1m--- a/README.mkd[m[m
-[1m+++ b/README.mkd[m[m
-[36m@@ -1,3 +1,6 @@[m[m
-[32m+[m[32mNote: the original TicGit author has pulled all the TicGit-ng changes into his repository, creating a potentially confusing situation. The schacon [m [32m[m[32mTicGit repo, this one, is not consistently maintained. For up to date TicGit-ng info and code, check the canonical TicGit-ng repository at[m[41m  [m[m
-[32m+[m[32mhttps://github.com/jeffWelling/ticgit[m[m
-[32m+[m[m
- ## TicGit-ng ##[m[m
- [m[m
- This project provides a ticketing system built on Git that is kept in a[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[33mtag v1.4[m[m
-[35;1H[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[m
-[m
-[m
-[33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;33m[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-[m
-[m
-[m
-[m
-[m
-[m
-[m
-[m
-[m
-[m
-[32m[m[32mo his repository, creating a potentially confusing situation. The schacon TicGit repo, this one, is not consistently maintained. For up to date Tic[m[7m>[27m
-[m
-[m
-[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[H[2J[H[33mtag v1.4[m[m
-Tagger: rajat-kurhade-tiger <rajat.kurhade@tigeranalytics.com>[m
-Date:   Tue Mar 21 13:23:57 2023 +0530[m
-[m
-mt version 1.4[m
-[m
-[33mcommit 847256809a3d518cd36b8f81859401416fe8d945[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Jeff Welling <Jeff.Welling@Gmail.com>[m
-Date:   Tue Apr 26 17:29:17 2011 -0700[m
-[m
-    Added note to clarify which is the canonical TicGit-ng repo[m
-[m
-[1mdiff --git a/README.mkd b/README.mkd[m[m
-[1mindex ab92035..9ea9ff9 100644[m[m
-[1m--- a/README.mkd[m[m
-[1m+++ b/README.mkd[m[m
-[36m@@ -1,3 +1,6 @@[m[m
-[32m+[m[32mNote: the original TicGit author has pulled all the TicGit-ng changes into his repository, creating a potentially confusing situation. The schacon [m [32m[m[32mTicGit repo, this one, is not consistently maintained. For up to date TicGit-ng info and code, check the canonical TicGit-ng repository at[m[41m  [m[m
-[32m+[m[32mhttps://github.com/jeffWelling/ticgit[m[m
-[32m+[m[m
- ## TicGit-ng ##[m[m
- [m[m
- This project provides a ticketing system built on Git that is kept in a[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[H[2J[H[33mtag v1.4[m[m
-Tagger: rajat-kurhade-tiger <rajat.kurhade@tigeranalytics.com>[m
-Date:   Tue Mar 21 13:23:57 2023 +0530[m
-[m
-mt version 1.4[m
-[m
-[33mcommit 847256809a3d518cd36b8f81859401416fe8d945[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
-Author: Jeff Welling <Jeff.Welling@Gmail.com>[m
-Date:   Tue Apr 26 17:29:17 2011 -0700[m
-[m
-    Added note to clarify which is the canScript started on 2023-03-21 13:27:37+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag
-[?2004l[?1h=v1.4[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git push origin v1.5[K4
-[?2004lUsername for 'https://github.com': 
-Password for 'https://github.com': 
-remote: No anonymous write access.
-fatal: Authentication failed for 'https://github.com/schacon/ticgit/'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git push origin v1.4
-[?2004lUsername for 'https://github.com': rajat-a kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/schacon/ticgit/'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git tag -d v1.4
-[?2004lDeleted tag 'v1.4' (was 5c88b9e)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch
-[?2004l[?1h=* [32mmaster[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch testing
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch
-[?2004l[?1h=* [32mmaster[m[m
-  testing[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout testing
-[?2004lSwitched to branch 'testing'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout master
-[?2004lSwitched to branch 'master'
-Your branch is up to date with 'origin/master'.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout -b iss53
-[?2004lSwitched to a new branch 'iss53'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# nan[K[K[Kvim index.hr[Ktml
-[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;7r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[7;1H"index.html" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [m[7;103H0,0-1[9CAll[1;1H[?25h[?12$p[27m[23m[29m[m[H[2J[?25l[2;1H[94m~                                                                                                                                                   [3;1H~                                                                                                                                                   [4;1H~                                                                                                                                                   [5;1H~                                                                                                                                                   [6;1H~                                                                                                                                                   [7;1H~                                                                                                                                                   [8;1H~                                                                                                                                                   [9;1H~                                                                                                                                                   [10;1H~                                                                                                                                                   [11;1H~                                                                                                                                                   [12;1H~                                                                                                                                                   [13;1H~                                                                                                                                                   [14;1H~                                                                                                                                                   [15;1H~                                                                                                                                                   [16;1H~                                                                                                                                                   [17;1H~                                                                                                                                                   [18;1H~                                                                                                                                                   [19;1H~                                                                                                                                                   [20;1H~                                                                                                                                                   [21;1H~                                                                                                                                                   [22;1H~                                                                                                                                                   [23;1H~                                                                                                                                                   [24;1H~                                                                                                                                                   [25;1H~                                                                                                                                                   [26;1H~                                                                                                                                                   [27;1H~                                                                                                                                                   [28;1H~                                                                                                                                                   [29;1H~                                                                                                                                                   [30;1H~                                                                                                                                                   [31;1H~                                                                                                                                                   [32;1H~                                                                                                                                                   [33;1H~                                                                                                                                                   [34;1H~                                                                                                                                                   [m[35;131H0,0-1[9CAll[1;1H[?25h[27m[23m[29m[m[H[2J[?25l[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [m[7;103H0,0-1[9CAll[1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[?25l[7;93H~@k[1;1H[7;93H   [1;1H[?25h[27m[23m[29m[m[H[2J[?25l[2;1H[94m~                                                                                                                                                   [3;1H~                                                                                                                                                   [4;1H~                                                                                                                                                   [5;1H~                                                                                                                                                   [6;1H~                                                                                                                                                   [7;1H~                                                                                                                                                   [8;1H~                                                                                                                                                   [9;1H~                                                                                                                                                   [10;1H~                                                                                                                                                   [11;1H~                                                                                                                                                   [12;1H~                                                                                                                                                   [13;1H~                                                                                                                                                   [14;1H~                                                                                                                                                   [15;1H~                                                                                                                                                   [16;1H~                                                                                                                                                   [17;1H~                                                                                                                                                   [18;1H~                                                                                                                                                   [19;1H~                                                                                                                                                   [20;1H~                                                                                                                                                   [21;1H~                                                                                                                                                   [22;1H~                                                                                                                                                   [23;1H~                                                                                                                                                   [24;1H~                                                                                                                                                   [25;1H~                                                                                                                                                   [26;1H~                                                                                                                                                   [27;1H~                                                                                                                                                   [28;1H~                                                                                                                                                   [29;1H~                                                                                                                                                   [30;1H~                                                                                                                                                   [31;1H~                                                                                                                                                   [32;1H~                                                                                                                                                   [33;1H~                                                                                                                                                   [34;1H~                                                                                                                                                   [m[35;131H0,0-1[9CAll[1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^X[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H~@k[1;1H[35;121H   [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;121H^[[1;1H[35;121H  [1;1H[35;121H^[[1;1H[35;121H  [1;1H[?25h[?25l[35;1HType  :qa  and press <Enter> to exit Vim[35;131H[K[35;131H0,0-1[9CAll[1;1H[?25h[?25l[35;1H[1m-- INSERT --[m[35;13H[K[35;131H0,1[11CAll[1;1Herror[?25h[?25l: failed to pus[?25h[?25lh some r[?25h[?25lefs to '[?25h[?25lhttps:/[?25h[?25l/github.[?25h[?25lcom/scha[?25h[?25lcon/ticg[?25h[?25lit'[?25h[?25l[35;1H[K[35;131H1,70[10CAll[1;70H[?25h[?25l[35;1HType  :qa!  and press <Enter> to abandon all changes and exit Vim[35;131H[K[35;131H1,70[10CAll[1;70H[?25h[?25l[35;121Hq[1;70H[?25h[?25l[35;122Ha[1;70H[35;1H[1mrecording @a[m[35;13H[K[35;131H1,70[10CAll[1;70H[?25h[?25l[35;121H![1;70H[?25h[?25l[35;122H^M[1;70H[35;121H   [1;70H[?25h[?25l[35;121H@[1;70H[?25h[?25l[35;122Hq[1;70H[35;121H  [1;70H[?25h[?25l[35;121H^M[1;70H[35;121H  [1;70H[?25h[?25l[35;121Hq[1;70H[35;1H[K[1;70H[35;131H1,70[10CAll[1;70H[?25h[?25l[35;121Hq[1;70H[?25h[?25l[35;122Hq[1;70H[35;1H[1mrecording @q[m[35;121H[K[35;131H1,70[10CAll[1;70H[?25h[?25l[35;121Ha[1;70H[35;121H [1;71H[35;1H[1m--c INSERT --[m [1mrecording @q[m[35;131H[K[35;131H1,71[10CAll[1;71H[?25h[?25l[2;1H[K[35;131H2,1 [2;1H[?25h[?25lq[35;133H2[2;2H[?25h[?25lq[35;133H3[2;3H[?25h[?25lq[35;133H4[2;4H[?25h[?25lq[35;133H5[2;5H[?25h[?25lq[35;133H6[2;6H[?25h[?25l[2;5H[K[35;133H5[2;5H[?25h[?25l[2;4H[K[35;133H4[2;4H[?25h[?25l[2;3H[K[35;133H3[2;3H[?25h[?25l[2;2H[K[35;133H2[2;2H[?25h[?25l[2;1H[K[35;133H1[2;1H[?25h[?25l[94m~                                                                                                                                                   [m[35;131H1,71[1;71H[?25h[?25l[1;70H[K[35;134H0[1;70H[?25h[?25l[1;69H[K[35;133H69[1;69H[?25h[?25l[1;68H[K[35;134H8[1;68H[?25h[?25l[1;67H[K[35;134H7[1;67H[?25h[?25l[1;66H[K[35;134H6[1;66H[?25h[?25l[1;65H[K[35;134H5[1;65H[?25h[?25l[1;64H[K[35;134H4[1;64H[?25h[?25l[1;63H[K[35;134H3[1;63H[?25h[?25l[1;62H[K[35;134H2[1;62H[?25h[?25l[1;61H[K[35;134H1[1;61H[?25h[?25l[1;60H[K[35;134H0[1;60H[?25h[?25l[1;59H[K[35;133H59[1;59H[?25h[?25l[1;58H[K[35;134H8[1;58H[?25h[?25l[1;57H[K[35;134H7[1;57H[?25h[?25l[1;56H[K[35;134H6[1;56H[?25h[?25l[1;55H[K[35;134H5[1;55H[?25h[?25l[1;54H[K[35;134H4[1;54H[?25h[?25l[1;53H[K[35;134H3[1;53H[?25h[?25l[1;52H[K[35;134H2[1;52H[?25h[?25l[1;51H[K[35;134H1[1;51H[?25h[?25l[1;50H[K[35;134H0[1;50H[?25h[?25l[1;49H[K[35;133H49[1;49H[?25h[?25l[1;48H[K[35;134H8[1;48H[?25h[?25l[1;47H[K[35;134H7[1;47H[?25h[?25l[1;46H[K[35;134H6[1;46H[?25h[?25l[1;45H[K[35;134H5[1;45H[?25h[?25l[1;44H[K[35;134H4[1;44H[?25h[?25l[1;43H[K[35;134H3[1;43H[?25h[?25l[1;42H[K[35;134H2[1;42H[?25h[?25l[1;41H[K[35;134H1[1;41H[?25h[?25l[1;40H[K[35;134H0[1;40H[?25h[?25l[1;39H[K[35;133H39[1;39H[?25h[?25l[1;38H[K[35;134H8[1;38H[?25h[?25l[1;37H[K[35;134H7[1;37H[?25h[?25l[1;36H[K[35;134H6[1;36H[?25h[?25l[35;134H5[1;35H[?25h[?25l[1;34H[K[35;134H4[1;34H[?25h[?25l[1;33H[K[35;134H3[1;33H[?25h[?25l[35;134H2[1;32H[?25h[?25l[1;31H[K[35;134H1[1;31H[?25h[?25l[1;30H[K[35;134H0[1;30H[?25h[?25l[1;29H[K[35;133H29[1;29H[?25h[?25l[1;28H[K[35;134H8[1;28H[?25h[?25l[35;134H7[1;27H[?25h[?25l[1;26H[K[35;134H6[1;26H[?25h[?25l[1;25H[K[35;134H5[1;25H[?25h[?25l[1;24H[K[35;134H4[1;24H[?25h[?25l[1;23H[K[35;134H3[1;23H[?25h[?25l[35;134H2[1;22H[?25h[?25l[1;21H[K[35;134H1[1;21H[?25h[?25l[1;20H[K[35;134H0[1;20H[?25h[?25l[1;19H[K[35;133H19[1;19H[?25h[?25l[1;18H[K[35;134H8[1;18H[?25h[?25l[35;134H7[1;17H[?25h[?25l[1;16H[K[35;134H6[1;16H[?25h[?25l[1;15H[K[35;134H5[1;15H[?25h[?25l[35;134H4[1;14H[?25h[?25l[1;13H[K[35;134H3[1;13H[?25h[?25l[1;12H[K[35;134H2[1;12H[?25h[?25l[1;11H[K[35;134H1[1;11H[?25h[?25l[1;10H[K[35;134H0[1;10H[?25h[?25l[1;9H[K[35;133H9 [1;9H[?25h[?25l[1;8H[K[35;133H8[1;8H[?25h[?25l[35;133H7[1;7H[?25h[?25l[1;6H[K[35;133H6[1;6H[?25h[?25l[1;5H[K[35;133H5[1;5H[?25h[?25l[1;4H[K[35;133H4[1;4H[?25h[?25l[1;3H[K[35;133H3[1;3H[?25h[?25l[1;2H[K[35;133H2[1;2H[?25h[?25l[1;1H[K[35;133H1[1;1H[?25h[?25le[35;133H2[1;2H[?25h[?25lx[35;133H3[1;3H[?25h[?25li[35;133H4[1;4H[?25h[?25lt[35;133H5[1;5H[?25h[?25l[2;1H[K[35;131H2,1[2;1H[?25h[?25l[3;1H[K[35;131H3[3;1H[?25h[?25l[4;1H[K[35;131H4[4;1H[?25h[?25l[5;1H[K[35;131H5[5;1H[?25h[?25l[6;1H[K[35;131H6[6;1H[?25h[?25l[7;1H[K[35;131H7[7;1H[?25h[?25l[8;1H[K[35;131H8[8;1H[?25h[?25l[9;1H[K[35;131H9[9;1H[?25h[?25l[10;1H[K[35;131H10,1[10;1H[?25h[?25l[11;1H[K[35;132H1[11;1H[?25h[?25l[12;1H[K[35;132H2[12;1H[?25h[?25l[13;1H[K[35;132H3[13;1H[?25h[?25l[14;1H[K[35;132H4[14;1H[?25h[?25l[15;1H[K[35;132H5[15;1H[?25h[?25l[16;1H[K[35;132H6[16;1H[?25h[?25l[17;1H[K[35;132H7[17;1H[?25h[?25l[18;1H[K[35;132H8[18;1H[?25h[?25l[19;1H[K[35;132H9[19;1H[?25h[?25l[20;1H[K[35;131H20[20;1H[?25h[?25l[21;1H[K[35;132H1[21;1H[?25h[?25l[22;1H[K[35;132H2[22;1H[?25h[?25l[23;1H[K[35;132H3[23;1H[?25h[?25l[24;1H[K[35;132H4[24;1H[?25h[?25l[25;1H[K[35;132H5[25;1H[?25h[?25l[26;1H[K[35;132H6[26;1H[?25h[?25l[27;1H[K[35;132H7[27;1H[?25h[?25l[28;1H[K[35;132H8[28;1H[?25h[?25l[29;1H[K[35;132H9[29;1H[?25h[?25l[30;1H[K[35;131H30[30;1H[?25h[?25l[31;1H[K[35;132H1[31;1H[?25h[?25l[32;1H[K[35;132H2[32;1H[?25h[?25l[33;1H[K[35;132H3[33;1H[?25h[?25l[34;1H[K[35;132H4[34;1H[?25h[?25l[1;34r[34;1H
-[1;35r[35;131H[K[35;131H35,1[10CBot[34;1H[?25h[?25l[1;34r[34;1H
-[1;35r[35;131H[K[35;131H36,1[10CBot[34;1H[?25h[?25l[1;34r[34;1H
-[1;35r[35;131H[K[35;131H37,1[10CBot[34;1H[?25h[?25l[1;34r[34;1H
-[1;35r[35;131H[K[35;131H38,1[10CBot[34;1H[?25h[?25l[35;132H7[33;1H[?25h[?25l[35;132H6[32;1H[?25h[?25l[35;132H5[31;1H[?25h[?25l[35;132H4[30;1H[?25h[?25l[35;132H3[29;1H[?25h[?25l[35;132H2[28;1H[?25h[?25l[35;132H1[27;1H[?25h[?25l[35;132H0[26;1H[?25h[?25l[35;131H29[25;1H[?25h[?25l[35;132H8[24;1H[?25h[?25l[35;132H7[23;1H[?25h[?25l[35;132H6[22;1H[?25h[?25l[35;132H5[21;1H[?25h[?25l[35;132H4[20;1H[?25h[?25l[35;132H3[19;1H[?25h[?25l[35;132H2[18;1H[?25h[?25l[35;132H1[17;1H[?25h[?25l[35;132H0[16;1H[?25h[?25l[35;131H19[15;1H[?25h[?25l[35;132H8[14;1H[?25h[?25l[35;132H7[13;1H[?25h[?25l[35;132H6[12;1H[?25h[?25l[35;132H5[11;1H[?25h[?25l[35;132H4[10;1H[?25h[?25l[35;132H3[9;1H[?25h[?25l[35;132H2[8;1H[?25h[?25l[35;132H1[7;1H[?25h[?25l[35;132H0[6;1H[?25h[?25l[1;34r[1;1H[L[1;35r[35;131H[K[35;131H9,1[11C75%[6;1H[?25h[?25l[1;34r[1;1H[L[1;35r[35;131H[K[35;131H8,1[11C50%[6;1H[?25h[?25l[1;34r[1;1H[L[1;35r[35;131H[K[35;131H7,1[11C25%[6;1H[?25h[?25l[1;34r[1;1H[L[1;35r[1;1Hexit[35;131H[K[35;131H6,1[11CTop[6;1H[?25h[?25l[35;131H5[5;1H[?25h[?25l[35;131H4[4;1H[?25h[?25l[35;131H3[3;1H[?25h[?25l[35;131H2[2;1H[?25h[?25l[35;131H1[1;1H[?25h[?25l[35;133H2[1;2H[?25h[?25l[35;133H3[1;3H[?25h[?25l[35;133H4[1;4H[?25h[?25l[35;133H5[1;5H[?25h[?25l[1;4H[K[35;133H4[1;4H[?25h[?25l[1;3H[K[35;133H3[1;3H[?25h[?25l[1;2H[K[35;133H2[1;2H[?25h[?25l[1;1H[K[35;133H1[1;1H[?25h[?25l[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[35;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[35;131H[K[1;1H[?25h[?25l[35;4H[1mINSERTe --^recordingI @q^[m[35;25H[K[35;131H1,1[11CTop[2;34r[2;1H[L[1;35r[35;131H[K[35;131H2,1[11CTop[2;1H[?25h[?25l[3;34r[3;1H[L[1;35r[35;131H[K[35;131H3,1[11CTop[3;1H[?25h[?25l[4;34r[4;1H[L[1;35r[35;131H[K[35;131H4,1[11CTop[4;1H[?25h[?25l[5;34r[5;1H[L[1;35r[35;131H[K[35;131H5,1[11CTop[5;1H[?25h[?25l[6;34r[6;1H[L[1;35r[35;131H[K[35;131H6,1[11CTop[6;1H[?25h[?25l[7;34r[7;1H[L[1;35r[35;131H[K[35;131H7,1[11CTop[7;1H[?25h[?25l[8;34r[8;1H[L[1;35r[35;131H[K[35;131H8,1[11CTop[8;1H[?25h[?25l[9;34r[9;1H[L[1;35r[35;131H[K[35;131H9,1[11CTop[9;1H[?25h[?25l[10;34r[10;1H[L[1;35r[35;131H[K[35;131H10,1[10CTop[10;1H[?25h[35;1H[1mrecording @qr[m[35;13H[K[10;1H[?25l[35;121H^[[10;1H[35;121H  [10;1H[35;131H10,0-1[8CTop[10;1H[?25h[?25l[35;121H:[10;1H[35;1H[K[35;1H:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[35;1H[K[35;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# nano index.html
-[?2004l[?2004h[?1049h[22;0;0t[1;7r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[5;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                           index.html                                                     [1;119H(B[m[6d(B[0;7m^G(B[m Help[6;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[6;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[7d(B[0;7m^X(B[m Exit[7;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[7;1H[?1049l[23;0;0t[?1l>[?1049h[22;0;0t[1;35r[?12l[?25h[39;49m]104(B[m[4l[?7h[H[2J[?2004h[?1h=[?1h=(B[0;7m  GNU nano 6.2                                                         index.html                                                                   [1;147H(B[m[34d(B[0;7m^G(B[m Help[34;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[34;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;113H(B[0;7mM-A(B[m Set Mark    (B[0;7mM-](B[m To Bracket[35d(B[0;7m^X(B[m Exit[35;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[35;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[35;113H(B[0;7mM-6(B[m Copy[35;129H(B[0;7m^Q(B[m Where Was[?25l[?12l[?25h[2d[?25l[?12l[?25h[?25l[1;83H(B[0;7m*[147G(B[m[?12l[?25h[2dH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[34;17H[21X[34;38H(B[0;7mM-D(B[m DOS Format   [34;65H          (B[0;7mM-A(B[m Append[20X[34;112H(B[0;7mM-B(B[m Backup File[K[35;2H(B[0;7mC(B[m Cancel[17G[21X[35;38H(B[0;7mM-M(B[m Mac Format     [35;65H          (B[0;7mM-P(B[m Prepend[19X[35;112H(B[0;7m^T(B[m Browse[K[33d(B[0;7mFile Name to Write: index.html                                                                                                                      [33;31H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[33;67H[1K (B[0;7m[ Writing... ](B[m[K[1;83H(B[0;7m [147G(B[m[33;67H(B[0;7m[ Wrote 1 line ](B[m[34;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[34;65H(B[0;7m^T(B[m Execute      (B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[112G (B[0;7mM-A(B[m Set Mark    (B[0;7mM-](B[m To Bracket[35;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste[35;65H(B[0;7m^J(B[m Justify      (B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[112G (B[0;7mM-6(B[m Copy[35;129H(B[0;7m^Q(B[m Where Was[?12l[?25h[2d[?25l[33d[J[35d[?12l[?25h[35;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git commit -a -m ""C"r"e"a"t"e" "n"e"w" "f"o"o"t"e"r" [A(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "{"[1P"["]"i]"s]"s]"u]"e]" ]"5]"3]"[C[C
-[?2004lOn branch iss53
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mindex.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout master
-[?2004lSwitched to branch 'master'
-Your branch is up to date with 'origin/master'.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout -b hotfix
-[?2004lSwitched to a new branch 'hotfix'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# nano index.html
-[?2004l[?2004h[?1049h[22;0;0t[1;7r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[5;54H(B[0;7m[ Reading... ](B[m[5;53H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                                           index.html                                                     [1;119H(B[m[6d(B[0;7m^G(B[m Help[6;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[6;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[7d(B[0;7m^X(B[m Exit[7;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;69H(B[0;7m*[119G(B[m[?12l[?25h[2dh[?25l[?12l[?25ho[?25l[?12l[?25ht[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hx[?25l[6;16H[15X[6;31H(B[0;7mM-D(B[m DOS Format       [6;61H(B[0;7mM-A(B[m Append[16X[6;93H(B[0;7mB(B[m Backup File[K[7;2H(B[0;7mC(B[m Cancel[16G[15X[7;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[7;91H(B[0;7m^T(B[m Browse[K[5d(B[0;7mFile Name to Write: index.html                                                                                          [5;31H(B[m[?12l[?25h[?25l[5;53H[1K (B[0;7m[ Writing... ](B[m[K[1;69H(B[0;7m [119G(B[m[5;53H(B[0;7m[ Wrote 1 line ](B[m[6;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[6;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[7;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2;7H[?25l[5d[J[7d[?12l[?25h[7;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git commit -a -m ""F"[1P"[K[1P"[C[K ''F'i'x' 'b'r'o'k'e'n' 'e'm'a'i'l' ' [A(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca'd'd'r'e's's'[C
-[?2004lOn branch hotfix
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mindex.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git add index.html 
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# gii[Kt commit -m ""F"i"x" "b"r"o"k"e"n" "e"m"a"i"l" "a"d"d" [A(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr"e"s"s"[C
-[?2004l[hotfix 5e1471e] Fix broken email address
- 1 file changed, 1 insertion(+)
- create mode 100644 index.html
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout master
-[?2004lSwitched to branch 'master'
-Your branch is up to date with 'origin/master'.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git merge hotfix
-[?2004lUpdating 8472568..5e1471e
-Fast-forward
- index.html | 1 [32m+[m
- 1 file changed, 1 insertion(+)
- create mode 100644 index.html
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch -d hotfix
-[?2004lDeleted branch hotfix (was 5e1471e).
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout iss53
-[?2004lSwitched to branch 'iss53'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# nano index.html
-[?2004l[?2004h[?1049h[22;0;0t[1;7r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[5;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                           index.html                                                     [1;119H(B[m[6d(B[0;7m^G(B[m Help[6;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[6;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[7d(B[0;7m^X(B[m Exit[7;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;69H(B[0;7m*[119G(B[m[?12l[?25h[2dh[?25l[?12l[?25ht[?25l[?12l[?25hm[?25l[?12l[?25hl[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25h5[?25l[?12l[?25h3[?25l[6;16H[15X[6;31H(B[0;7mM-D(B[m DOS Format       [6;61H(B[0;7mM-A(B[m Append[16X[6;93H(B[0;7mB(B[m Backup File[K[7;2H(B[0;7mC(B[m Cancel[16G[15X[7;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[7;91H(B[0;7m^T(B[m Browse[K[5d(B[0;7mFile Name to Write: index.html                                                                                          [5;31H(B[m[?12l[?25h[?25l[5;53H[1K (B[0;7m[ Writing... ](B[m[K[1;69H(B[0;7m [119G(B[m[5;53H(B[0;7m[ Wrote 1 line ](B[m[6;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[6;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[7;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2;11H[?25l[5d[J[7d[?12l[?25h[7;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git status
-[?2004lOn branch iss53
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mindex.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git commit -a -m ''F'i'n'i's'h' 't'h'e' 'n'e'w' 'F'o' [A(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co't'e'r'[C
-[?2004lOn branch iss53
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mindex.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git add index.html
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git stats[Kus
-[?2004lOn branch iss53
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mnew file:   index.html[m
-
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git commit -m ""F"i"n"i"s"h" "t"h"e" "n"e"w" "F"o"o"t"e" [A(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr"[C
-[?2004l[iss53 80dbc59] Finish the new Footer
- 1 file changed, 1 insertion(+)
- create mode 100644 index.html
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout master
-[?2004lSwitched to branch 'master'
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git merge iss53
-[?2004lAuto-merging index.html
-CONFLICT (add/add): Merge conflict in index.html
-Automatic merge failed; fix conflicts and then commit the result.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git status
-[?2004lOn branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-You have unmerged paths.
-  (fix conflicts and run "git commit")
-  (use "git merge --abort" to abort the merge)
-
-Unmerged paths:
-  (use "git add <file>..." to mark resolution)
-	[31mboth added:      index.html[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git merge --abort
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git sa[Ktatus
-[?2004lOn branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch
-[?2004l[?1h=  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-:[K[K[K:[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[H[2J[H[H[2J[H  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K...skipping...
-  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
-[m
-[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K [KESCESC[KESCESC[K[K[7m(END)[27m[K[K [K^X^X[K^J^J[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K^X^X[K^J^J[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K^X^X[K^X^X[Kgoto mark: [K[K[7mInvalid mark letter   (press RETURN)[27m[35;1H[K[K[7m(END)[27m[K[K [K^X^X[K^J^J[K[7m(END)[27m[K[K [K^X^X[K^X^X[Kgoto mark: [K[7m(END)[27m[K[K [KESCESC[KESCESC[K [K::[Kqq[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# ![Kgit status
-[?2004lOn branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch
-[?2004l[?1h=  iss53[m[m
-* [32mmaster[m[m
-  testing[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch --merged
-[?2004l[?1h=* [32mmaster[m[m
-  testing[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch --no-merged
-[?2004l[?1h=  iss53[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git -d iss53
-[?2004lunknown option: -d
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# gi [Kt branch -d iss53
-[?2004lerror: The branch 'iss53' is not fully merged.
-If you are sure you want to delete it, run 'git branch -D iss53'.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch -D iss83[K[K53
-[?2004lDeleted branch iss53 (was 80dbc59).
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch --all
-[?2004l[?1h=* [32mmaster[m[m
-  testing[m[m
-  [31mremotes/origin/HEAD[m -> origin/master[m
-  [31mremotes/origin/master[m[m
-  [31mremotes/origin/ticgit[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch --move master main
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git push --set-upste[Kream origin man=[K[Kin
-[?2004lUsername for 'https://github.com': rajat-kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/schacon/ticgit/'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/Assignment_1.1/ticgit# cd
-[?2004l[?2004h(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd.ssh
-[?2004lcd.ssh: command not found
-[?2004h(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd .d[Kssh
-[?2004l[?2004h(base) ]0;root@TIGER01252: ~/.sshroot@TIGER01252:~/.ssh# ls
-[?2004lid_ed25519  id_ed25519.pub
-[?2004h(base) ]0;root@TIGER01252: ~/.sshroot@TIGER01252:~/.ssh# cat id_ed25519.pub
-[?2004lssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINoHGdL7ZE3AMoJfh+CthW5us1lDQz9fnVdMoxY7OrSR your_email@example.com
-[?2004h(base) ]0;root@TIGER01252: ~/.sshroot@TIGER01252:~/.ssh# cat id_ed25519
-[?2004l-----BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABBf/rMKSd
-5Aqp+idHtW0YZ/AAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAINoHGdL7ZE3AMoJf
-h+CthW5us1lDQz9fnVdMoxY7OrSRAAAAoPuqXAW2vdwB+kyRMixftPyVuTsTubx3hCG7Y1
-wM4Wi2Er6dgJE1ADN6LrmabENF3sQmsk6EuRsvmPjOPtfuCB2EvMY64YQBlzN39FTgbMb/
-+q0ngotshf5p09GAwnc93G+CHCalTFbZCuXq9Advhyjzy7q1KCgnSzL03TpnAMlCiN/svb
-LF4N+i+ZdBfZ+LW5FbjSwJhpXNrlN074Rbpsc=
------END OPENSSH PRIVATE KEY-----
-[?2004h(base) ]0;root@TIGER01252: ~/.sshroot@TIGER01252:~/.ssh# cd[K[Kcat id_25[Ked[K[K[Ked25519.pub
-[?2004lssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINoHGdL7ZE3AMoJfh+CthW5us1lDQz9fnVdMoxY7OrSR your_email@example.com
-[?2004h(base) ]0;root@TIGER01252: ~/.sshroot@TIGER01252:~/.ssh# cd
-[?2004l[?2004h(base) ]0;root@TIGER01252: ~root@TIGER01252:~# c [Kd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/A[K(base) ]0;root@TIGER01252: ~root@TIGER01252:~# cd /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit/
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch
-[?2004l[?1h=* [32mmain[m[m
-  testing[m[m
-[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git branch testing
-[?2004lfatal: A branch named 'testing' already exists.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git checkout testing
-[?2004lSwitched to branch 'testing'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# git status
-[?2004lOn branch testing
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgitroot@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1/ticgit# cd ..
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# ls
-[?2004l[0m[01;32mCONTRIBUTING.md[0m  [01;32mREADME[0m  [01;32mREADME.md[0m  [01;32mmain.py[0m  [34;42mticgit[0m
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git status
-[?2004lOn branch main
-Your branch is ahead of 'origin/main' by 4 commits.
-  (use "git push" to publish your local commits)
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mticgit/[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# git push
-[?2004lUsername for 'https://github.com': rajat-
-Password for 'https://rajat-@github.com': 
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/rajat-kurhade-tiger/Assignment_1.1.git/'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/users/rajat.kurhade/my_project/Assignment_1.1root@TIGER01252:/mnt/c/users/rajat.kurhade/my_project/Assignment_1.1# exit
-[?2004lexit
-
-Script done on 2023-03-21 15:27:56+05:30 [COMMAND_EXIT_CODE="128"]
-Script started on 2023-03-21 15:38:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# clone [7mhttps://github.com/tonychacon/blink[27mhttps://github.com/tonychacon/blink
-[?2004lCommand 'clone' not found, did you mean:
-  command 'rclone' from deb rclone (1.53.3-4ubuntu1)
-Try: apt install <deb name>
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# [7mgit clone https://github.com/tonychacon/blink[27mgit clone https://github.com/tonychacon/blink
-[?2004lCloning into 'blink'...
-remote: Enumerating objects: 23, done.[K
-remote: Total 23 (delta 0), reused 0 (delta 0), pack-reused 23[K
-Receiving objects:   4% (1/23)Receiving objects:   8% (2/23)Receiving objects:  13% (3/23)Receiving objects:  17% (4/23)Receiving objects:  21% (5/23)Receiving objects:  26% (6/23)Receiving objects:  30% (7/23)Receiving objects:  34% (8/23)Receiving objects:  39% (9/23)Receiving objects:  43% (10/23)Receiving objects:  47% (11/23)Receiving objects:  52% (12/23)Receiving objects:  56% (13/23)Receiving objects:  60% (14/23)Receiving objects:  65% (15/23)Receiving objects:  69% (16/23)Receiving objects:  73% (17/23)Receiving objects:  78% (18/23)Receiving objects:  82% (19/23)Receiving objects:  86% (20/23)Receiving objects:  91% (21/23)Receiving objects:  95% (22/23)Receiving objects: 100% (23/23)Receiving objects: 100% (23/23), done.
-Resolving deltas:   0% (0/5)Resolving deltas:  20% (1/5)Resolving deltas:  40% (2/5)Resolving deltas:  60% (3/5)Resolving deltas:  80% (4/5)Resolving deltas: 100% (5/5)Resolving deltas: 100% (5/5), done.
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# git status
-[?2004lfatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink# cd blink
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git checkout -b slow-blink
-[?2004lSwitched to a new branch 'slow-blink'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# sed -i '' 's/1000/3000/'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K''s'/'1'0'0'0'/'3'0'0'0'[C blink.ino
-[?2004lsed: -e expression #1, char 11: unterminated `s' command
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git diff --word-diff
-[?2004l[?1h=[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git status
-[?2004lOn branch slow-blink
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# sed -i ''s'/'1'0'0'0'/'3'0'0'0'[C blink.ino
-[?2004lsed: -e expression #1, char 11: unterminated `s' command
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git push origin slow-blink
-[?2004lUsername for 'https://github.com': rajat-kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/tonychacon/blink/'
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git push
-[?2004lfatal: The current branch slow-blink has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin slow-blink
-
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git status
-[?2004lOn branch slow-blink
-nothing to commit, working tree clean
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git status
-[?2004lOn branch slow-blink
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   README.md[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git [K(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git diff --word-diff
-[?2004l[?1h=[1mdiff --git a/README.md b/README.md[m[m
-[1mindex 406e489..730fa3a 100644[m[m
-[1m--- a/README.md[m[m
-[1m+++ b/README.md[m[m
-[36m@@ -1,3 +1,3 @@[m[m
-# Blink[m[m
-[m
-:[K[K [K::[Kqq[K[?1l>[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git add README.md
-[?2004l[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git status
-[?2004lOn branch slow-blink
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mmodified:   README.md[m
-
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git commit -m ""U"p"d"a"t"e"d" "R"E"A"D"M"E" "f"i"l"e"[C
-[?2004l[slow-blink 689b603] Updated README file
- 1 file changed, 1 insertion(+), 1 deletion(-)
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# git push origin slow-blink
-[?2004lUsername for 'https://github.com': rajat-kurhade-tiger
-Password for 'https://rajat-kurhade-tiger@github.com': 
-remote: Permission to tonychacon/blink.git denied to rajat-kurhade-tiger.
-fatal: unable to access 'https://github.com/tonychacon/blink/': The requested URL returned error: 403
-[?2004h(base) ]0;root@TIGER01252: /mnt/c/Users/rajat.kurhade/my_project/blink/blinkroot@TIGER01252:/mnt/c/Users/rajat.kurhade/my_project/blink/blink# exit
-[?2004lexit
-
-Script done on 2023-03-21 16:34:32+05:30 [COMMAND_EXIT_CODE="128"]
